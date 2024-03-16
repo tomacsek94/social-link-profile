@@ -55,7 +55,8 @@ h2 {
   gap: 22px;
 }
 
-.link:link {
+.link:link,
+.link:visited{
   display: block;
   text-decoration: none;
   font-size: 18px;
