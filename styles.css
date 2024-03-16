@@ -55,8 +55,7 @@ h2 {
   gap: 22px;
 }
 
-.link:link,
-.link:active {
+.link:link {
   display: block;
   text-decoration: none;
   font-size: 18px;
